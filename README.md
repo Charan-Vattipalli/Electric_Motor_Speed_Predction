@@ -15,3 +15,4 @@ You can deploy the app on Hugging Face Spaces or Streamlit Cloud by uploading:
 app.py
 decision_tree_model.pkl
 requirements.txt
+
