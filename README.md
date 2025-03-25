@@ -13,3 +13,6 @@ app.py
 decision_tree_model.pkl
 requirements.txt
 
+##🔹 Contributors
+👤 Sri Charan Vattipalli – Data Scientist
+📧 Contact: sricharanvattipalli@gmail.com
